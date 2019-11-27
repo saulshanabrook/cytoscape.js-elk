@@ -1,8 +1,8 @@
 {
   "name": "cytoscape-elk-saul",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "The ELK layout algorithm adapter for Cytoscape.js",
-  "main": "cytoscape-elk.js",
+  "main": "cytoscape-elk-saul.js",
   "author": {
     "name": "John Stephenson"
   },
